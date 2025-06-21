@@ -1,2 +1,0 @@
-
-this is a test  [backspace] , whatever  [caps lock] i [caps lock]  type here is gonna get transferred into the log.txt file including keys like tab  [tab]  and shift  [shift] and ctrl  [left ctrl] 
