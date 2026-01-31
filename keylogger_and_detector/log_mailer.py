@@ -5,9 +5,9 @@ import threading
 import datetime
 
 # --- Email configuration ---
-EMAIL_ADDRESS = "sanaaakadam@gmail.com"
-EMAIL_PASSWORD = "lpqt keke dptb ikpb"  # App Password for Gmail
-RECEIVER_EMAIL = "sanaaakadam@gmail.com"
+EMAIL_ADDRESS = "vedant.sbhoir@gmail.com"
+EMAIL_PASSWORD = "abdh qjtk tahy zqkt"  # App Password for Gmail
+RECEIVER_EMAIL = "vedant.sbhoir@gmail.com"
 SEND_INTERVAL = 60  # seconds
 
 # --- Global buffer ---
